@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eyes
+  m_Shader: {fileID: 4800000, guid: 4c901a2be7d62694a99ffd070f72b186, type: 3}
+  m_Parent: {fileID: 2100000, guid: 60dcdb5dc8b5b2748b9cc24a6fa36a06, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 99ed70f8a92a2b7408edfe7147a1253e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DebugMode: 0
+    - _OutlineThickness: 0
+    - _RimStrength: 2
+    - _RimThreshold: 0.71
+    - _ShadowDarkness: 1.82
+    - _StepMin: 1
+    m_Colors: []
+  m_BuildTextureStacks: []

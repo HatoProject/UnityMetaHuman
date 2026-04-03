@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hair 1
+  m_Shader: {fileID: 4800000, guid: 4c901a2be7d62694a99ffd070f72b186, type: 3}
+  m_Parent: {fileID: 2100000, guid: 60dcdb5dc8b5b2748b9cc24a6fa36a06, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _OutlineThickness
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOMap:
+        m_Texture: {fileID: 2800000, guid: 427f768acb46fc449a461a3b9da7d5a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 6369888d0558cb44da37b0e6347baf90, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 2800000, guid: 427f768acb46fc449a461a3b9da7d5a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AOIntensity: 0.31
+    - _AOToonStrength: 0.143
+    - _BaseShadowSoftness: 0.078
+    - _DebugMode: 0
+    - _Glossiness: 0.21
+    - _IsFace: 0
+    - _OutlineThickness: 0.000003
+    - _RimPower: 8
+    - _RimStrength: 1.17
+    - _RimThreshold: 0.49
+    - _ShadowDarkness: 5
+    - _ShadowDepth: 3.57
+    - _StepMin: 0.33
+    - _ToonSteps: 1.6
+    m_Colors:
+    - _BaseColor: {r: 0.834, g: 0.644682, b: 0.644682, a: 1}
+    - _RimColor: {r: 2.691403, g: 1.9611993, b: 5.590881, a: 1}
+    - _ShadowTint: {r: 0.518, g: 0.314426, b: 0.314426, a: 1}
+    - _ShadowTint2: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 37.38103, g: 11.384862, b: 19.519192, a: 1}
+  m_BuildTextureStacks: []
